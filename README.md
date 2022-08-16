@@ -1,0 +1,2 @@
+# MMU
+Android app architecture
