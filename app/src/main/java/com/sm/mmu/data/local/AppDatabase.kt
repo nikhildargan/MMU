@@ -1,4 +1,4 @@
-package com.hans.mmu.data.local
+package com.sm.mmu.data.local
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
@@ -8,5 +8,5 @@ import androidx.room.RoomDatabase
  */
 @Database(entities = [],version = 3, exportSchema = false)
 abstract class AppDatabase : RoomDatabase() {
-   // abstract fun cocktailDao(): CocktailDao
+
 }

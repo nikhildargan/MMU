@@ -1,4 +1,4 @@
-package com.hans.mmu
+package com.sm.mmu
 
 import org.junit.Test
 
